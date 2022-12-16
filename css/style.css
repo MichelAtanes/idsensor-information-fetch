@@ -75,7 +75,7 @@ form{
     align-items: center;
 }
 
-.autofill input{
+.inputar input{
     display: flex;
     flex-direction: column;
     width: 200px;
@@ -85,14 +85,6 @@ form{
     margin-bottom: 5%;
 }
 
-.inputar input{
-    display: flex;
-    flex-direction: column;
-    width: 200px;
-    height: 30px;
-    margin: auto;
-    margin-top: 5%;
-}
 form button{
     width: 100px;
     height: 20px;
